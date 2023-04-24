@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: antiquewhite;
+	margin-left: 0;
+  	margin-right: 0;
+	
+}
+
+.center {
+	background-color: white;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 10px;
+	border: solid black 1px;	
+}
+
+input[name="title"], input[name="author_last_name"], input[name="author_first_name"], input[name="genre"], .submit_form{
+	margin-bottom: 10px;
+}
+
+
